@@ -5,6 +5,7 @@ This project was built with the following technologies:<br><br>
 <ul>
 <li> Java 8 </li>
 <li> JSP </li>
+<li> Servlet </li>
 <li> Spring MVC </li>
 <li> Spring Security </li>
 <li> Hibernate ORM </li>
